@@ -1,0 +1,42 @@
+.Registration-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+body {
+    background-color: #E6E6FA;
+    color: #FFC0CB;
+    font-family: 'Arial', sans-serif;
+}
+
+.Registration-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.Registration-form input {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.Registration-form button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.Registration-form button:hover {
+    background-color: #45a049;
+}
+
+.message {
+    margin-top: 20px;
+    font-size: 16px;
+}

@@ -1,0 +1,25 @@
+.DS_Store
+# Dependency directories
+/node_modules
+
+# Build directory
+/build
+
+# Environment variables file
+.env
+
+# Cache directories
+/.cache
+/.eslintcache
+
+# Editor directories
+/.vscode
+/.idea
+
+# OS generated files
+.DS_Store
+*.log
+
+# Package lock file for npm and yarn
+/package-lock.json
+/yarn.lock
